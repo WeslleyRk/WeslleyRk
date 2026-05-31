@@ -5,12 +5,10 @@
 <h2 align="center">Hey 👋 I'm Wes — Future Back-end Developer from Brazil 🇧🇷</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B00FF&center=true&vCenter=true&width=500&lines=Java+Developer+in+Progress+☕;Back-end+%26+Full+Stack+Enthusiast;Building%2C+Learning%2C+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B00FF&center=true&vCenter=true&width=500&lines=Java+Developer+in+Progress+☕;Back-end+%26+Full+Stack+Enthusiast;Building%2C+Learning%2C+Improving." alt="Typing SVG" />
 </p>
 
 <br>
-
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" />
 
 ### 🧠 About Me
 
@@ -56,7 +54,7 @@ public class Wes {
 
 ### 🌐 Connect with me
 
-<div align="left">
+<div align="center">
   <a href="#">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9B00FF&logoColor=white&style=for-the-badge" height="35" />
   </a>
@@ -73,17 +71,11 @@ public class Wes {
 
 <br>
 
-### 👁️ Profile Views
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=WeslleyRk&color=9B00FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WeslleyRk/WeslleyRk/snake-output/snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B00FF&height=80&section=footer" />
