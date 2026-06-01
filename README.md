@@ -18,7 +18,7 @@ public class Wes {
 }
 ```
 <br>
-### 🛠️ Tech Stack
+   🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img width="10" />
@@ -29,13 +29,13 @@ public class Wes {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
 <br>
-### 📊 GitHub Stats
+    📊 GitHub Stats
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WeslleyRk&theme=midnight-purple&hide_border=true" />
 </div>
 <br>
-### 🌐 Connect with me
+    🌐 Connect with me
 <div align="center">
   <a href="https://www.instagram.com/_weslleyrk/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9B00FF&logoColor=white&style=for-the-badge" height="35" />
