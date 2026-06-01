@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B00FF&center=true&vCenter=true&width=500&lines=Java+Developer+in+Progress+☕;Back-end+%26+Full+Stack+Enthusiast;Building%2C+Learning%2C+Improving." alt="Typing SVG" />
 </p>
 <br>
+
 ### 🧠 About Me
+
 ```java
 public class Wes {
     String[] currentlyLearning = {"Java", "Spring Boot", "APIs REST"};
